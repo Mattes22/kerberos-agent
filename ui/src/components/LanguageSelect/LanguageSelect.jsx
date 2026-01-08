@@ -16,6 +16,7 @@ const LanguageSelect = () => {
       dir: 'ltr',
       active: true,
     },
+    cs: { label: 'Čeština', dir: 'ltr', active: false },
     nl: { label: 'Nederlands', dir: 'ltr', active: false },
     fr: { label: 'Francais', dir: 'ltr', active: false },
     pl: { label: 'Polski', dir: 'ltr', active: false },
